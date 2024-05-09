@@ -1,8 +1,5 @@
 # Mashup Generator
 <br>
-Created By Divyam :)
-<br>
-<br>
 <p align="center">
   <img src="assets/screenshot.png" width="800">
 </p>
